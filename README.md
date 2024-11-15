@@ -19,8 +19,7 @@ Moringa-stack allows the user to post a question in any programming language and
 All registered users are able to post a question and comment on any question that might help other user with an error  
 
 #### Livelink
-https://moringastack.herokuapp.com/
-
+[https://moringa-stack.clintonwambugu.com/](https://moringa-stack.clintonwambugu.com/)
 
 #### Technologies used
     - Python 3.8
